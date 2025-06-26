@@ -37,7 +37,7 @@ const Index = () => {
   };
 
   const handleEmailClick = () => {
-    window.open('mailto:rakeshkanna1025@gmail.com', '_blank');
+    window.open('mailto:info@pixel4ge.com', '_blank');
   };
 
   const handlePhoneClick = () => {
