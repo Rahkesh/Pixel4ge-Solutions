@@ -13,7 +13,7 @@ const Index = () => {
   };
 
   const handleStartProject = () => {
-    handleWhatsAppClick(); // Redirect to WhatsApp for project inquiries
+    handleEmailClick()
   };
 
   const handleViewWork = () => {
