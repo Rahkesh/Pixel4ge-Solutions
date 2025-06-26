@@ -1,0 +1,4 @@
+name = "pixel4ge_solutions"
+compatibility_date = "2025-06-26"
+
+pages_build_output_dir = "./dist"
